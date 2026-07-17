@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/aaronkyriesenbach/pi-package-manager/compare/pi-package-manager-v0.2.0...pi-package-manager-v0.3.0) (2026-07-17)
+
+
+### Features
+
+* migrate to Bun (runtime, lockfile, CI) ([3e7f8b4](https://github.com/aaronkyriesenbach/pi-package-manager/commit/3e7f8b481d862f8387de0b66a7d888fc35417bb1))
+
 ## [0.2.0](https://github.com/aaronkyriesenbach/pi-package-manager/compare/pi-package-manager-v0.1.0...pi-package-manager-v0.2.0) (2026-07-17)
 
 
